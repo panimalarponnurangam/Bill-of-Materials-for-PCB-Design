@@ -1,4 +1,5 @@
-#EX 04: Bill-of-Materials-for-PCB-Design
+EX 04
+# Bill-of-Materials-for-PCB-Design
 # Aim
 
 To prepare the Bill of Material for the given circuit.
