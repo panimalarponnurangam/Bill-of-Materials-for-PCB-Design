@@ -1,4 +1,4 @@
-EX 04
+
 # Bill-of-Materials-for-PCB-Design
 # Aim
 
